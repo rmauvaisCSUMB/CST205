@@ -1,1 +1,1 @@
-from other_file import my_list
+my_list = ["dog, cat, bird"]
